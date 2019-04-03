@@ -1,0 +1,3 @@
+[submodule "BetterCode"]
+	path = BetterCode
+	url = git@github.com:Betterfly-Ben/BetterCode.git
